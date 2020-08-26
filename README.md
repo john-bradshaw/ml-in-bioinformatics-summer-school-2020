@@ -1,5 +1,5 @@
 # Tutorial for "Advances in machine learning for molecules" 
-_Summer school for Machine Learning in Bioinformatics, Moscow_  (https://cs.hse.ru/ssml/)
+_Summer school for Machine Learning in Bioinformatics, Moscow_  (https://cs.hse.ru/ssml/).     
 John Bradshaw, August 2020
 
 This repo contains the tutorial `ML_for_Molecules.ipynb` for learning about how to use RDKit and performing regression on
